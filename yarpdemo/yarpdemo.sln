@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "yarp-demo-api", "yarp-demo-api\yarp-demo-api.csproj", "{4E0F636C-CCA7-4EF7-9227-C12AF1161F5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedAPI", "RedAPI\RedAPI.csproj", "{8900EC9C-7520-40DE-907E-047A8DA26037}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlueAPI", "BlueAPI\BlueAPI.csproj", "{56C1AD82-C511-4C8C-87B9-BABE7523E7D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E0F636C-CCA7-4EF7-9227-C12AF1161F5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E0F636C-CCA7-4EF7-9227-C12AF1161F5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E0F636C-CCA7-4EF7-9227-C12AF1161F5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E0F636C-CCA7-4EF7-9227-C12AF1161F5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8900EC9C-7520-40DE-907E-047A8DA26037}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8900EC9C-7520-40DE-907E-047A8DA26037}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8900EC9C-7520-40DE-907E-047A8DA26037}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8900EC9C-7520-40DE-907E-047A8DA26037}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56C1AD82-C511-4C8C-87B9-BABE7523E7D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56C1AD82-C511-4C8C-87B9-BABE7523E7D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56C1AD82-C511-4C8C-87B9-BABE7523E7D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56C1AD82-C511-4C8C-87B9-BABE7523E7D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F7B675B-F2DC-43D6-805F-7577C29BFD32}
+	EndGlobalSection
+EndGlobal
